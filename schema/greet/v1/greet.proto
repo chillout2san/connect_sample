@@ -1,6 +1,6 @@
 syntax = "proto3";
 
-package greet.v1;
+package schema.greet.v1;
 
 option go_package = "example/gen/greet/v1;greetv1";
 
